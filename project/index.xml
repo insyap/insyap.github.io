@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | </title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | InSyAp</title>
+    <link>https://insyap.github.io/project/</link>
+      <atom:link href="https://insyap.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://insyap.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://insyap.github.io/project/</link>
     </image>
     
     <item>
       <title>RiverSense - River Pollution Monitoring</title>
-      <link>https://example.com/project/water_pollution/</link>
+      <link>https://insyap.github.io/project/water_pollution/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/water_pollution/</guid>
+      <guid>https://insyap.github.io/project/water_pollution/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -43,17 +43,17 @@ This project tackles the challenge of river pollution through a collaborative ef
     
     <item>
       <title>Enhancing Trust in Voting Systems for Disabled Individuals - Technology Preferences, and the Perception of Security through Blockchain and Ethical AI</title>
-      <link>https://example.com/project/evote/</link>
+      <link>https://insyap.github.io/project/evote/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/evote/</guid>
+      <guid>https://insyap.github.io/project/evote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secure Ontologies for IoT Systems (SOfIoTS)</title>
-      <link>https://example.com/project/sofiots/</link>
+      <link>https://insyap.github.io/project/sofiots/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/sofiots/</guid>
+      <guid>https://insyap.github.io/project/sofiots/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -101,9 +101,9 @@ The project will look at the Semantic Sensor Network (SSN) Ontology (w3.org), to
     
     <item>
       <title>Provenance and Anonymisation (PROVANON)</title>
-      <link>https://example.com/project/provanon/</link>
+      <link>https://insyap.github.io/project/provanon/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/provanon/</guid>
+      <guid>https://insyap.github.io/project/provanon/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -143,9 +143,9 @@ PROVANON, a Turing Institute pilot project is examining how the use of provenanc
     
     <item>
       <title>Internet of Energy (IoE) Data</title>
-      <link>https://example.com/project/ioe/</link>
+      <link>https://insyap.github.io/project/ioe/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ioe/</guid>
+      <guid>https://insyap.github.io/project/ioe/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -183,9 +183,9 @@ In this project, our partners were from the &lt;a href=&#34;https://english.kook
     
     <item>
       <title>Enhanced Affective Wellbeing based on Emotion Technologies for adapting IoT spaces (EmoSpaces)</title>
-      <link>https://example.com/project/emospaces/</link>
+      <link>https://insyap.github.io/project/emospaces/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/emospaces/</guid>
+      <guid>https://insyap.github.io/project/emospaces/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -232,9 +232,9 @@ The partners from France were:
     
     <item>
       <title>Web Objects based Smart Aging Services (WoO-SAS)</title>
-      <link>https://example.com/project/woo/</link>
+      <link>https://insyap.github.io/project/woo/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/woo/</guid>
+      <guid>https://insyap.github.io/project/woo/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -273,9 +273,9 @@ In this project, our partners were the &lt;a href=&#34;https://www.keti.re.kr/en
     
     <item>
       <title>Detecting Event related Sentiments of a Community (CommuniMents)</title>
-      <link>https://example.com/project/communiments/</link>
+      <link>https://insyap.github.io/project/communiments/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/communiments/</guid>
+      <guid>https://insyap.github.io/project/communiments/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;

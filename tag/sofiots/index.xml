@@ -1,62 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SOfIoTS | </title>
-    <link>https://example.com/tag/sofiots/</link>
-      <atom:link href="https://example.com/tag/sofiots/index.xml" rel="self" type="application/rss+xml" />
+    <title>SOfIoTS | InSyAp</title>
+    <link>https://insyap.github.io/tag/sofiots/</link>
+      <atom:link href="https://insyap.github.io/tag/sofiots/index.xml" rel="self" type="application/rss+xml" />
     <description>SOfIoTS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://insyap.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>SOfIoTS</title>
-      <link>https://example.com/tag/sofiots/</link>
+      <link>https://insyap.github.io/tag/sofiots/</link>
     </image>
     
     <item>
-      <title>Socio-Technical Security Modelling: Analysis of State-of-the-Art, Application, and Maturity in Critical Industrial Infrastructure Environments/Domains</title>
-      <link>https://example.com/publication/sofiot_report_1/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sofiot_report_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industrial Internet of Things security modelling using ontological methods</title>
-      <link>https://example.com/publication/iiotonto2022/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/iiotonto2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secure ontologies for the Internet of Things: representing risk and security concepts using basic formal ontology</title>
-      <link>https://example.com/publication/sofiot_report_4/</link>
-      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sofiot_report_4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SOfIoTS: Ontological Framework, Demonstration Outcomes, and Recommendations for Further Work (D3/D4)</title>
-      <link>https://example.com/publication/sofiot_report_2/</link>
-      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sofiot_report_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secure ontologies for IoT Devices: a Review and Gap Analysis</title>
-      <link>https://example.com/publication/sofiot_report_3/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sofiot_report_3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Secure Ontologies for IoT Systems (SOfIoTS)</title>
-      <link>https://example.com/project/sofiots/</link>
+      <link>https://insyap.github.io/project/sofiots/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/sofiots/</guid>
+      <guid>https://insyap.github.io/project/sofiots/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
