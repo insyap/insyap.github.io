@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Boisvert | InSyAp</title>
+    <link>https://insyap.github.io/author/charles-boisvert/</link>
+      <atom:link href="https://insyap.github.io/author/charles-boisvert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Boisvert</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://insyap.github.io/author/charles-boisvert/avatar_hu345db218260e00ad022e4ae7c782e292_10943_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Charles Boisvert</title>
+      <link>https://insyap.github.io/author/charles-boisvert/</link>
+    </image>
+    
+  </channel>
+</rss>
